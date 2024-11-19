@@ -1,0 +1,60 @@
+/* Allgemeines Styling */
+.row-margin {
+    margin-top: 40px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.margin-top {
+    margin-top: 35px;
+}
+
+.right-margin {
+    margin-right: 60px;
+}
+
+.paragraph-bottom-margin {
+    margin-bottom: 35px;
+}
+
+.no-padding {
+    padding-left: 0;
+}
+
+.text-green {
+    color: #288b43;
+}
+
+.green-list {
+    list-style: none;
+    padding-left: 20px;
+    color: #288b43;
+}
+
+/* Badge Styling */
+.badge {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background-color: white;
+    color: #288b43;
+    padding: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+/* Image Styling */
+.responsive-img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Referenzbox Styling */
+.ref-details {
+    text-align: left;
+    border: 1px solid rgb(245, 245, 245);
+    padding: 10px;
+}
